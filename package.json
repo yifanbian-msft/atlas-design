@@ -97,7 +97,7 @@
 	"author": "Microsoft Corporation",
 	"license": "MIT",
 	"dependencies": {
-		"npm": "^11.12.1"
+		"npm": "^11.19.1"
 	},
 	"overrides": {
 		"serialize-javascript": "^7.0.5"
